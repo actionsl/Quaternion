@@ -1,3 +1,5 @@
+Quaternions
+
 Quaternions were described by William Hamilton (of Hamiltonian fame) in the 19th century as a faster algebra 
 for rotating vectors in 3D space. 
 

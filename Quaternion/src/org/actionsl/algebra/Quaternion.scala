@@ -60,6 +60,7 @@ case class Quaternion(val t4: Tuple4[Double, Double, Double, Double]) {
     abs(re - b.re) < EPS && abs(i - b.i) < EPS && abs(j - b.j) < EPS && abs(k - b.k) < EPS
 
   override def toString = "(%8.4f, %8.4f, %8.4f, %8.4f)".format(re, i, j, k)
+  
 }
 
 object Quaternion {
