@@ -1,4 +1,4 @@
-Quaternion
+Quaternions
 ==========
 
 Scala implementation of Quaternion algebra
